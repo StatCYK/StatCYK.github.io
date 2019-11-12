@@ -21,24 +21,6 @@ Skills
   * Python
   * Matlab
 
-Publications
+More information
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Download
-======
-[[PDF]](https://github.com/ChengzijunAixiaoli/ChengzijunAixiaoli.github.io/blob/master/files/CV_CM.pdf)
+[[PDF]](https://ChengzijunAixiaoli.github.io/files/CV_CM.pdf)
