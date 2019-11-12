@@ -9,7 +9,7 @@ author_profile: true
 
 Cheng Meng, Ye Wang, Xinlian Zhang, Abhyuday Mandal, Wenxuan Zhong, and Ping Ma
 
-*Handbook of Research on Applied Cybernetics and Systems Science*, 2017, published
+*Handbook of Research on Applied Cybernetics and Systems Science*, 2017, published [[PDF]](https://ChengzijunAixiaoli.github.io/files/Effective_Statistical_Methods_for_Big_Data_Analytics.pdf)
 
 - **Large-scale optimal transport map estimation using projection pursuit**
 
