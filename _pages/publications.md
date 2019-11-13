@@ -15,13 +15,15 @@ Cheng Meng, Ye Wang, Xinlian Zhang, Abhyuday Mandal, Wenxuan Zhong, and Ping Ma
 
 Cheng Meng, Yuan Ke, Jingyi Zhang, Mengrui Zhang, Wenxuan Zhong and Ping Ma
 
-*NeurIPS 2019*, accepted
+*NeurIPS 2019*, accepted [[PDF]]
+(https://ChengzijunAixiaoli.github.io/files/Large_scale_optimal_transport_map_approximation_using_projection_pursuit.pdf)
 
 - **More efficient computation of smoothing splines via space-filling basis selection**
 
 Cheng Meng, Xinlian Zhang, Jingyi Zhang, Wenxuan Zhong and Ping Ma
 
-*Biometrika*, accepted
+*Biometrika*, accepted [[PDF]]
+(https://ChengzijunAixiaoli.github.io/files/_Biometrika_More_efficient_approximation_of_smoothing_splines_via_space_filling_basis_selection.pdf)
 
 - **An optimal transport approach for selecting a representative subsample**
 
