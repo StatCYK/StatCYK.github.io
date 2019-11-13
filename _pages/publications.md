@@ -31,7 +31,7 @@ Cheng Meng, Jingyi Zhang, Jinyang Chen, Wenxuan Zhong and Ping Ma
 
 - **LowCon: A design-based subsampling approach in a misspecified linear model**
 
-Cheng Meng, Rui Xie, Abhyuday Mandal, Xinlian Zhang, Wenxuan Zhong, and Ping Ma
+Cheng Meng, Rui Xie, Abhyuday Mandal, Xinlian Zhang, Wenxuan Zhong and Ping Ma
 
 *ournal of the American Statistical Association*, under review
 
@@ -43,19 +43,19 @@ Shangpeng Sun, Yu Jiang, Cheng Meng, Jingyi Zhang, Ping Ma and Changying Li
 
 - **Hierarchical Organization of Brain Networks Revealed by Hybrid Spatiotemporal Deep Learning**
 
-Wei Zhang, Huang Huang, Qinglin Dong, Cheng Meng, Jinchi Lv, Fangfei Ge, and Tianmin Liu
+Wei Zhang, Huang Huang, Qinglin Dong, Cheng Meng, Jinchi Lv, Fangfei Ge and Tianmin Liu
 
 *Brain Connectivity*, under review
 
 - **To Reveal the Hierarchical Structures of Human Neural Functional Signals via Deep Matrix Fitting**
 
-Wei Zhang, Ting Zhang, Cheng Meng, and Tianming Liu
+Wei Zhang, Ting Zhang, Cheng Meng and Tianming Liu
 
 *Brain Connectivity*, under review
 
 - **Network ANOVA using Gromov-Wasserstein distance with the application in gene regulatory network**
 
-Cheng Meng, Huiming Chen, Wenxuan Zhong, and Ping Ma
+Cheng Meng, Huiming Chen, Wenxuan Zhong and Ping Ma
 
 *In preparation*
 
@@ -73,19 +73,19 @@ Cheng Meng, Yuan Ke, Jingyi Zhang, Wenxuan Zhong and Ping Ma
 
 - **Leverage sampling in spatial data**
 
-Ruixie, Cheng Meng, Wenxuan Zhong, and Ping Ma
+Ruixie, Cheng Meng, Wenxuan Zhong and Ping Ma
 
 *In preparation*
 
 - **Variable hunting: New promise for binary predictor selection using multiple responses**
 
-Xing Xin, Cheng Meng, Wenxuan Zhong, and Ping Ma
+Xing Xin, Cheng Meng, Wenxuan Zhong and Ping Ma
 
 *In preparation*
 
 - **SLIDE: Swarm Learning Iterative Descent Estimator**
 
-Wei Zhang, Musheng Lin, Cheng Meng, and Mukherjee Pratik
+Wei Zhang, Musheng Lin, Cheng Meng and Mukherjee Pratik
 
 *In preparation*
 
