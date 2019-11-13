@@ -21,7 +21,7 @@ Cheng Meng, Yuan Ke, Jingyi Zhang, Mengrui Zhang, Wenxuan Zhong and Ping Ma
 
 Cheng Meng, Xinlian Zhang, Jingyi Zhang, Wenxuan Zhong and Ping Ma
 
-*Biometrika*, accepted [[PDF]](https://ChengzijunAixiaoli.github.io/files/Biometrika_More_efficient_approximation_of_smoothing_splines_via_space_filling_basis_selection.pdf)
+*Biometrika*, accepted [[PDF]](https://ChengzijunAixiaoli.github.io/files/Biometrika.pdf)
 
 - **An optimal transport approach for selecting a representative subsample**
 
