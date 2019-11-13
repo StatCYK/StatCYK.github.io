@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Cheng Meng"
   avatar           : "profile_cheng.jfif"
-  bio              : "Introduction balabalabala"
+  bio              : #"Introduction balabalabala"
   location         : "Athens, Georgia"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
