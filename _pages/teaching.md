@@ -5,7 +5,9 @@ permalink: /teaching/
 author_profile: true
 ---
 
--**CSCI 8630 Data Science Practicum**, Fall 2019
+-**Guest Lecture**
+
+CSCI 8630 Data Science Practicum, Fall 2019
 
 -**Teaching assistant**
 
