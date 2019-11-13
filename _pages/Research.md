@@ -10,3 +10,4 @@ My research interests lie in developing novel theoretically justifiable and comp
 * Subsampling methods in big data
 * Large-scale optimal transport problems
 * Non/Semi-parametric modeling
+* Generative models
