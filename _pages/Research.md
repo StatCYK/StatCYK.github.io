@@ -11,3 +11,4 @@ My research interests lie in developing novel theoretically justifiable and comp
 * Large-scale optimal transport problems
 * Non/Semi-parametric modeling
 * Generative models
+* Statistical applications in imaging data, LiDAR data and 3d point cloud data
