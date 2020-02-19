@@ -28,13 +28,20 @@ Cheng Meng, Xinlian Zhang, Jingyi Zhang, Wenxuan Zhong and Ping Ma
 
 Cheng Meng, Jingyi Zhang, Jinyang Chen, Wenxuan Zhong and Ping Ma
 
-*International Conference on Artificial Intelligence and Statistics*, under review
+*International Conference on Machine Learning.*, under review
+
+- **Towards \sqrt(n)-consistent estimation of Wasserstein distances with smoothed Monge map.**
+
+Cheng Meng, Yuan Ke, Jingyi Zhang, Wenxuan Zhong and Ping Ma
+
+*International Conference on Machine Learning.*, under review
+
 
 - **LowCon: A design-based subsampling approach in a misspecified linear model**
 
 Cheng Meng, Rui Xie, Abhyuday Mandal, Xinlian Zhang, Wenxuan Zhong and Ping Ma
 
-*ournal of the American Statistical Association*, under review
+*Journal of Computational and Graphical Statistics*, under review
 
 - **Automated plant node detection using terrestrial LiDAR data under field conditions**
 
