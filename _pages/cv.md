@@ -9,14 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+
+-**Education**
+
 * Ph.D in Statistics, the University of Georgia, USA, 2020
 * B.S. in Mathematics and Applied Mathematics, Tsinghua University, China, 2015
 
   
-Skills
-======
+-**Skills**
+
 * Softwares and computing
   * R
   * Python
