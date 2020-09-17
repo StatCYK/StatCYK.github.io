@@ -7,6 +7,9 @@ author_profile: true
 
 -**Invited presentation**
 
+*More efficient approximation of smoothing splines via space-filling basis selection*, Center for Statistical Science, Tsinghua University, Beijing, China, Sep 2020
+
+
 *More efficient approximation of smoothing splines via space-filling basis selection*, Joint Statistical Meetings, American Statistical Association, Nonparametric Statistics Section, Denver, Jul 2019
 
 *Lightspeed approximation of smoothing splines*, Department of Statistics, Nankai University, Tianjin, China, Jul 2019
