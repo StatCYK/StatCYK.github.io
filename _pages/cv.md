@@ -12,7 +12,7 @@ redirect_from:
 
 -**Education**
 
-* Ph.D in Statistics, the University of Georgia, USA, 2020
+* Ph.D in Statistics, University of Georgia, USA, 2020
 * B.S. in Mathematics and Applied Mathematics, Tsinghua University, China, 2015
 
   
