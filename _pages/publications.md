@@ -21,7 +21,7 @@ Cheng Meng, Yuan Ke, Jingyi Zhang, Mengrui Zhang, Wenxuan Zhong and Ping Ma
 
 
 
-- **Automated plant node detection using terrestrial LiDAR data under field conditions
+- **Automated plant node detection using terrestrial LiDAR data under field conditions**
 Shangpeng Sun, Changying Li, Andrew Paterson, Jeevan Adhikari, Jon Robertson and Cheng Meng
 
 *2019 ASABE Annual International Meeting*, 2019, published.
