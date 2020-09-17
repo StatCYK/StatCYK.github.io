@@ -5,6 +5,15 @@ permalink: /teaching/
 author_profile: true
 ---
 
+
+-**Teaching**
+Deep Learning, Spring 2021
+
+Natural Language Processing, Spring 2021
+
+Computer Vision, Fall 2020
+
+
 -**Guest Lecture**
 
 CSCI 8630 Data Science Practicum, Fall 2019
