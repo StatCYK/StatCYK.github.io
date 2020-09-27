@@ -11,7 +11,7 @@ author_profile: true
 
 Cheng Meng, Jun Yu, Jingyi Zhang, Ping Ma, and Wenxuan Zhong
 
-*NeurIPS 2019*, accepted 
+*NeurIPS 2020*, accepted 
 
 
 
