@@ -6,12 +6,21 @@ author_profile: true
 ---
 
 
-
 - **Sufficient dimension reduction for classification using principal optimal transport direction**
 
 Cheng Meng, Jun Yu, Jingyi Zhang, Ping Ma, and Wenxuan Zhong
 
 *NeurIPS 2020*, accepted 
+
+
+
+- **LowCon: A design-based subsampling approach in a misspecified linear model**
+
+Cheng Meng, Rui Xie, Abhyuday Mandal, Xinlian Zhang, Wenxuan Zhong, and Ping Ma. 
+
+*Journal of Computational and Graphical Statistics*, tentative accepted.
+
+
 
 
 
