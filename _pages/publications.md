@@ -5,6 +5,16 @@ permalink: /publications/
 author_profile: true
 ---
 
+
+
+- **Sufficient dimension reduction for classification using principal optimal transport direction**
+
+Cheng Meng, Jun Yu, Jingyi Zhang, Ping Ma, and Wenxuan Zhong
+
+*NeurIPS 2019*, accepted 
+
+
+
 - **More efficient computation of smoothing splines via space-filling basis selection**
 
 Cheng Meng, Xinlian Zhang, Jingyi Zhang, Wenxuan Zhong and Ping Ma
