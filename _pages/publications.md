@@ -18,7 +18,7 @@ Cheng Meng, Jun Yu, Jingyi Zhang, Ping Ma, and Wenxuan Zhong
 
 Cheng Meng, Rui Xie, Abhyuday Mandal, Xinlian Zhang, Wenxuan Zhong, and Ping Ma. 
 
-*Journal of Computational and Graphical Statistics*, tentative accepted.
+*Journal of Computational and Graphical Statistics*, accepted.
 
 
 
