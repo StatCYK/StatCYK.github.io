@@ -10,7 +10,7 @@ author_profile: true
 
 Cheng Meng, Jun Yu, Jingyi Zhang, Ping Ma, and Wenxuan Zhong
 
-*NeurIPS 2020*, published 
+*NeurIPS 2020*, published  [[PDF]](https://ChengzijunAixiaoli.github.io/files/NeurIPS-2020-sufficient-dimension-reduction-for-classification-using-principal-optimal-transport-direction-Paper.pdf)
 
 
 
@@ -18,7 +18,7 @@ Cheng Meng, Jun Yu, Jingyi Zhang, Ping Ma, and Wenxuan Zhong
 
 Cheng Meng, Rui Xie, Abhyuday Mandal, Xinlian Zhang, Wenxuan Zhong, and Ping Ma. 
 
-*Journal of Computational and Graphical Statistics*, published.
+*Journal of Computational and Graphical Statistics*, published. [[PDF]](https://ChengzijunAixiaoli.github.io/files/LowCon A Design based Subsampling Approach in a Misspecified Linear Model.pdf)
 
 
 
