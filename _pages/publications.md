@@ -10,7 +10,7 @@ author_profile: true
 
 Cheng Meng, Jun Yu, Jingyi Zhang, Ping Ma, and Wenxuan Zhong
 
-*NeurIPS 2020*, accepted 
+*NeurIPS 2020*, published 
 
 
 
@@ -18,7 +18,7 @@ Cheng Meng, Jun Yu, Jingyi Zhang, Ping Ma, and Wenxuan Zhong
 
 Cheng Meng, Rui Xie, Abhyuday Mandal, Xinlian Zhang, Wenxuan Zhong, and Ping Ma. 
 
-*Journal of Computational and Graphical Statistics*, accepted.
+*Journal of Computational and Graphical Statistics*, published.
 
 
 
