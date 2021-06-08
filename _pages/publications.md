@@ -5,6 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
+- **Modern Subsampling Methods for Large-Scale Least Squares Regression**
+
+Tao Li, Cheng Meng
+
+*International Journal of Cyber-Physical Systems (IJCPS)*, published  [[PDF]](https://ChengzijunAixiaoli.github.io/files/NeurIPS-2020-sufficient-dimension-reduction-for-classification-using-principal-optimal-transport-direction-Paper.pdf)
+
 
 - **Sufficient dimension reduction for classification using principal optimal transport direction**
 
