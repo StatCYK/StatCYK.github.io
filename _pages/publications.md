@@ -9,7 +9,7 @@ author_profile: true
 
 Tao Li, Cheng Meng
 
-*International Journal of Cyber-Physical Systems (IJCPS)*, published  [[PDF]](https://ChengzijunAixiaoli.github.io/files/Modern Subsampling Methods for Large-Scale Least Squares Regression.pdf)
+*International Journal of Cyber-Physical Systems (IJCPS)*, published  [[PDF]](https://ChengzijunAixiaoli.github.io/files/Modern.pdf)
 
 
 - **Sufficient dimension reduction for classification using principal optimal transport direction**
@@ -24,7 +24,7 @@ Cheng Meng, Jun Yu, Jingyi Zhang, Ping Ma, and Wenxuan Zhong
 
 Cheng Meng, Rui Xie, Abhyuday Mandal, Xinlian Zhang, Wenxuan Zhong, and Ping Ma. 
 
-*Journal of Computational and Graphical Statistics*, published. [[PDF]](https://ChengzijunAixiaoli.github.io/files/LowCon A Design based Subsampling Approach in a Misspecified Linear Model.pdf)
+*Journal of Computational and Graphical Statistics*, published. [[PDF]](https://ChengzijunAixiaoli.github.io/files/LowCon.pdf)
 
 
 
