@@ -9,14 +9,14 @@ author_profile: true
 
 Cheng Meng, Jun Yu, Yongkai Chen, Wenxuan Zhong, Ping Ma
 
-*Journal of Computational and Graphical Statistics, published. [[PDF]](https://ChengzijunAixiaoli.github.io/files/HBS.pdf)
+*Journal of Computational and Graphical Statistics*, published. [[PDF]](https://ChengzijunAixiaoli.github.io/files/HBS.pdf)
 
 
 - **High resolution 3D terrestrial LiDAR for cotton plant main stalk and node detection**
 
 Shangpeng Sun, Changying Li, Peng W Chee, Andrew H Paterson, Cheng Meng, Jingyi Zhang, Ping Ma, Jon S Robertson, Jeevan Adhikari
 
-*Computers and Electronics in Agriculture, published.
+*Computers and Electronics in Agriculture*, published.
 
 
 
