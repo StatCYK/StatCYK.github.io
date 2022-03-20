@@ -9,71 +9,27 @@ author_profile: true
 
 Cheng Meng, Jun Yu, Yongkai Chen, Wenxuan Zhong, Ping Ma
 
-*Journal of Computational and Graphical Statistics*, published. [[PDF]](https://ChengzijunAixiaoli.github.io/files/HBS.pdf)
+*Journal of Computational and Graphical Statistics*, 2022 published. [[PDF]](https://yongkaichen99.github.io/files/HBS.pdf)
 
 
-- **High resolution 3D terrestrial LiDAR for cotton plant main stalk and node detection**
+- **Ensemble machine learning approach for screening of coronary heart disease based on echocardiography and risk factors**
 
-Shangpeng Sun, Changying Li, Peng W Chee, Andrew H Paterson, Cheng Meng, Jingyi Zhang, Ping Ma, Jon S Robertson, Jeevan Adhikari
+Jingyi Zhang, Huolan Zhu, Yongkai Chen}, Huimin Cheng, Yi Li, Wenxuan Zhong, Fang Wang
 
-*Computers and Electronics in Agriculture*, published.
-
-
-
-- **Modern Subsampling Methods for Large-Scale Least Squares Regression**
-
-Tao Li, Cheng Meng
-
-*International Journal of Cyber-Physical Systems (IJCPS)*, published  [[PDF]](https://ChengzijunAixiaoli.github.io/files/Modern.pdf)
+*BMC Medical Informatics and Decision Making*, published. [[PDF]](https://yongkaichen99.github.io/files/NeurIPS-2020-sufficient-dimension-reduction-for-classification-using-principal-optimal-transport-direction-Paper.pdf)
 
 
-- **Sufficient dimension reduction for classification using principal optimal transport direction**
+- **Drug screening with zebrafish visual behavior identifies carvedilol as a potential treatment for an autosomal dominant form of retinitis pigmentosa**
 
-Cheng Meng, Jun Yu, Jingyi Zhang, Ping Ma, and Wenxuan Zhong
-
-*NeurIPS 2020*, published  [[PDF]](https://ChengzijunAixiaoli.github.io/files/NeurIPS-2020-sufficient-dimension-reduction-for-classification-using-principal-optimal-transport-direction-Paper.pdf)
+Ganzen, Logan, Mee Jung Ko, Mengrui Zhang, Rui Xie, Yongkai Chen, Liyun Zhang, Rebecca James, Jeff Mumm, Richard M. van Rijn, Wenxuan Zhong, Chi Pui Pang, Mingzhi Zhang, Motokazu Tsujikawa and Yuk Fai Leung
+*Scientific reports*, 2021, published  [[PDF]](https://yongkaichen99.github.io/files/NeurIPS-2020-sufficient-dimension-reduction-for-classification-using-principal-optimal-transport-direction-Paper.pdf)
 
 
 
-- **LowCon: A design-based subsampling approach in a misspecified linear model**
+- **Best Subset Selection: Statistical Computing Meets Quantum Computing**
 
-Cheng Meng, Rui Xie, Abhyuday Mandal, Xinlian Zhang, Wenxuan Zhong, and Ping Ma. 
+Zhong, Wenxuan, Yuan Ke, Ye Wang, {\bf Yongkai Chen}, Jinyang Chen, and Ping Ma
 
-*Journal of Computational and Graphical Statistics*, published. [[PDF]](https://ChengzijunAixiaoli.github.io/files/LowCon.pdf)
-
-
-
-
-
-- **More efficient computation of smoothing splines via space-filling basis selection**
-
-Cheng Meng, Xinlian Zhang, Jingyi Zhang, Wenxuan Zhong and Ping Ma
-
-*Biometrika*, 2020, published [[PDF]](https://ChengzijunAixiaoli.github.io/files/Biometrika.pdf)
-
-
-- **Large-scale optimal transport map estimation using projection pursuit**
-
-Cheng Meng, Yuan Ke, Jingyi Zhang, Mengrui Zhang, Wenxuan Zhong and Ping Ma
-
-*NeurIPS 2019*, published [[PDF]](https://ChengzijunAixiaoli.github.io/files/Large_scale_optimal_transport_map_approximation_using_projection_pursuit.pdf)
-[[Poster]](https://ChengzijunAixiaoli.github.io/files/PPMM_poster.pdf)
-
-
-
-- **Automated plant node detection using terrestrial LiDAR data under field conditions**
-
-Shangpeng Sun, Changying Li, Andrew Paterson, Jeevan Adhikari, Jon Robertson and Cheng Meng
-
-*2019 ASABE Annual International Meeting*, 2019, published.
-
-
-
-
-- **Effective statistical methods for big data analytics**
-
-Cheng Meng, Ye Wang, Xinlian Zhang, Abhyuday Mandal, Wenxuan Zhong, and Ping Ma
-
-*Handbook of Research on Applied Cybernetics and Systems Science*, 2017, published [[PDF]](https://ChengzijunAixiaoli.github.io/files/Effective_Statistical_Methods_for_Big_Data_Analytics.pdf)
+*arXiv:2107.08359 (2021)*.
 
 
