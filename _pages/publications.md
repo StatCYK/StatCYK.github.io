@@ -16,13 +16,13 @@ Cheng Meng, Jun Yu, Yongkai Chen, Wenxuan Zhong, Ping Ma
 
 Jingyi Zhang, Huolan Zhu, Yongkai Chen}, Huimin Cheng, Yi Li, Wenxuan Zhong, Fang Wang
 
-*BMC Medical Informatics and Decision Making*, published. [[PDF]](https://yongkaichen99.github.io/files/NeurIPS-2020-sufficient-dimension-reduction-for-classification-using-principal-optimal-transport-direction-Paper.pdf)
+*BMC Medical Informatics and Decision Making*, published. [[PDF]](https://yongkaichen99.github.io/files/echo_BMC.pdf)
 
 
 - **Drug screening with zebrafish visual behavior identifies carvedilol as a potential treatment for an autosomal dominant form of retinitis pigmentosa**
 
 Ganzen, Logan, Mee Jung Ko, Mengrui Zhang, Rui Xie, Yongkai Chen, Liyun Zhang, Rebecca James, Jeff Mumm, Richard M. van Rijn, Wenxuan Zhong, Chi Pui Pang, Mingzhi Zhang, Motokazu Tsujikawa and Yuk Fai Leung
-*Scientific reports*, 2021, published  [[PDF]](https://yongkaichen99.github.io/files/NeurIPS-2020-sufficient-dimension-reduction-for-classification-using-principal-optimal-transport-direction-Paper.pdf)
+*Scientific reports*, 2021, published  [[PDF]](https://yongkaichen99.github.io/files/scientific report zebrafish.pdf)
 
 
 
