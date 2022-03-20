@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Cheng Meng's Homepage"
+title                    : "Yongkai Chen's Homepage"
 title_separator          : "-"
-name                     : &name "Cheng Meng"
+name                     : &name "Yongkai Chen"
 description              : &description "personal description"
-url                      : https://ChengzijunAixiaoli.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://YorkeChen1017.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ChengzijunAixiaoli/ChengzijunAixiaoli.github.io"
+repository               : "YorkeChen1017/YongkaiChen.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Cheng Meng"
-  avatar           : "profile_cheng.jfif"
+  name             : "Yongkai Chen"
+  avatar           : #"profile_cheng.jfif"
   bio              : #"Introduction balabalabala"
   location         : "Athens, Georgia"
   employer         :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ChengzijunAixiaoli"
+  github           : "YorkeChen1017"
   google_plus      :
   keybase          :
   instagram        :
