@@ -15,6 +15,6 @@ My name is Yongkai Chen. I am working in the [Big Data Analytics Lab](https://bi
 
 Content information
 ======
-* Address: 
+* Address: 310 Herty Drive, Department of Statistics, Athens, GA 30602
 
-* Email: 
+* Email: YongkaiChen@uga.edu
