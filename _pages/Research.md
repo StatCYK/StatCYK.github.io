@@ -5,7 +5,7 @@ permalink: /Research/
 author_profile: true
 ---
 I develop statistcial methods in non-parametric analysis, machine learning, high dimensional study, Riemannian geometry
-, and apply them to problems in biology, medicine and AI. My current interests are
+, and apply them to problems in biology, medicine and AI. I am enthusiastic with advanced computing technology. My current interests are
 
 * Non-parametric methods
 * Medical Imaging and Computer Vision
