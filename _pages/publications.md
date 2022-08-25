@@ -5,6 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
+- **Asymptotic Analysis of Sampling Estimators for Randomized Numerical Linear Algebra Algorithms**
+
+Ping Ma, Yongkai Chen, Xinlian Zhang, Xin Xing, Jingyi Ma, Michael W. Mahoney
+
+*Journal of Machine Learning Research*, 2022 published. [[PDF]](https://jmlr.org/papers/v23/20-219.html)
+
 - **Smoothing splines approximation using Hilbert curve basis selection**
 
 Cheng Meng, Jun Yu, Yongkai Chen, Wenxuan Zhong, Ping Ma
