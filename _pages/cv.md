@@ -21,5 +21,6 @@ redirect_from:
 * Softwares and computing
   * R
   * Python
+  * Quantum Computing
 
 
