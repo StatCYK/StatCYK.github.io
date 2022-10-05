@@ -9,5 +9,6 @@ I develop statistcial methods in non-parametric analysis, machine learning, high
 
 * Non-parametric methods
 * Medical Imaging and Computer Vision
+* Quantum Computing
 * Subsampling methods in big data
 * Network Data analysis
