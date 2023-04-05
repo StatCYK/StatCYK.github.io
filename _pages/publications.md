@@ -5,6 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
+- **Elucidating Dynamic Cell Lineages and Gene Networks in Time-Course Single Cell Differentiation**
+
+Mengrui Zhang*, Yongkai Chen*, Dingyi Yu, Wenxuan Zhong, Jingyi Zhang, Ping Ma
+
+*Artificial Intelligence in the Life Sciences*, 2023 published. [[PDF]](https://www.sciencedirect.com/science/article/pii/S2667318523000120)
+
 - **Asymptotic Analysis of Sampling Estimators for Randomized Numerical Linear Algebra Algorithms**
 
 Ping Ma, Yongkai Chen, Xinlian Zhang, Xin Xing, Jingyi Ma, Michael W. Mahoney
