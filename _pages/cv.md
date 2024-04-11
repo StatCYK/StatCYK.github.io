@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[[CV]]{https://github.com/StatCYK/StatCYK.github.io/blob/master/files/CV_Yonggkai_Chen.pdf}
+[[CV]](https://github.com/StatCYK/StatCYK.github.io/blob/master/files/CV_Yonggkai_Chen.pdf)
 
 -**Education**
 
