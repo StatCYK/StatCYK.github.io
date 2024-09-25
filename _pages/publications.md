@@ -6,32 +6,32 @@ author_profile: true
 ---
 - **Bisection Grover’s Search Algorithm and Its Application in Analyzing CITE-seq Data**
   
-Ping Ma*, Yongkai Chen*, Haoran Lu, Wenxuan Zhong
+Ping Ma#, Yongkai Chen#, Haoran Lu, Wenxuan Zhong
 
 *Journal of the American Statistical Association*, 2024. [[PDF]](https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2404259)
 
 - **Decreased GABA levels during development result in increased connectivity in the larval zebrafish tectum**
   
-Yang Liu*, Yongkai Chen*, Carly R. Duffy*, Ariel J. VanLeuven, John Branson Byers, Hannah C. Schriever, Rebecca E. Ball et al.
+Yang Liu#, Yongkai Chen#, Carly R. Duffy#, Ariel J. VanLeuven, John Branson Byers, Hannah C. Schriever, Rebecca E. Ball et al.
 
 *bioRxiv*, 2024.[[PDF]](https://www.biorxiv.org/content/10.1101/2024.09.11.612511v1.abstract)
 
 - **Bayesian Knowledge Distillation: A Bayesian Perspective of Distillation with Uncertainty Quantification**
 
-Luyang Fang*, Yongkai Chen*, Wenxuan Zhong, and Ping Ma
+Luyang Fang#, Yongkai Chen#, Wenxuan Zhong, and Ping Ma
 
 *In Forty-first International Conference on Machine Learning*, 2024. [[PDF]](https://openreview.net/forum?id=knZ4NYzGUd)
 
 
 - **Orthogonal multimodality integration and clustering in single-cell data**
 
-Yufang Liu, Yongkai Chen, Haoran Lu, Wenxuan Zhong, Guo-Cheng Yuan, and Ping Ma. 
+Yongkai Chen#, Yufang Liu#, Haoran Lu, Wenxuan Zhong, Guo-Cheng Yuan, and Ping Ma. 
 
 *BMC bioinformatics*, 2024. [[PDF]](https://link.springer.com/article/10.1186/s12859-024-05773-y)
 
 - **Elucidating Dynamic Cell Lineages and Gene Networks in Time-Course Single Cell Differentiation**
 
-Mengrui Zhang*, Yongkai Chen*, Dingyi Yu, Wenxuan Zhong, Jingyi Zhang, Ping Ma
+Mengrui Zhang#, Yongkai Chen#, Dingyi Yu, Wenxuan Zhong, Jingyi Zhang, Ping Ma
 
 *Artificial Intelligence in the Life Sciences*, 2023. [[PDF]](https://www.sciencedirect.com/science/article/pii/S2667318523000120)
 
