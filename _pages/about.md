@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-My name is Yongkai Chen. I am a PhD candidate in Statistics from [Department of Statistics](https://www.stat.uga.edu/) at the [University of Georgia](https://www.uga.edu/). I am working in the [Big Data Analytics Lab](https://bigdata.uga.edu/), under the supervision of Professor Wenxuan Zhong and Professor Ping Ma. I received BS degree in Mathmatical Statistics from Nankai University in 2019. 
-
+My name is Yongkai Chen (陈永凯). I am a postdoctoral scholar in the Department of Statistics at Harvard University, working with Professor [Samuel Kou](https://statistics.fas.harvard.edu/people/samuel-kou). Previously, I obtained my Ph.D. in Statistics from [Department of Statistics](https://www.stat.uga.edu/) at the [University of Georgia](https://www.uga.edu/) in 2024, under the supervision of Professor [Wenxuan Zhong](https://zhonglabuga.github.io/) and Professor [Ping Ma](https://bdalpingio.github.io/) in the [Big Data Analytics Lab](https://bigdata.uga.edu/).
+I received My BS degree in Mathematical Statistics from Nankai University in 2019. 
 
 
 
 Content information
 ======
-* Address: 310 Herty Drive, Department of Statistics, Athens, GA 30602
+* Address: 1 Oxford St, Cambridge, MA 02138
 
-* Email: YongkaiChen@uga.edu
+* Email: yongkaichen@fas.harvard.edu
