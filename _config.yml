@@ -83,10 +83,10 @@ author:
   name             : "Yongkai Chen"
   avatar           : "ychen.png"
   bio              : #"Introduction balabalabala"
-  location         : "Athens, Georgia"
+  location         : "Cambridge, MA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=Ifht6gwAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
