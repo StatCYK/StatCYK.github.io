@@ -69,11 +69,3 @@ Ganzen, Logan, Mee Jung Ko, Mengrui Zhang, Rui Xie, Yongkai Chen, Liyun Zhang, R
 
 
 
-- **Best Subset Selection: Statistical Computing Meets Quantum Computing**
-
-Zhong, Wenxuan, Yuan Ke, Ye Wang, Yongkai Chen, Jinyang Chen, and Ping Ma
-
-*arXiv:2107.08359 (2021)*.  [[PDF]](https://arxiv.org/abs/2107.08359)
-
-
-
