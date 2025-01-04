@@ -12,7 +12,8 @@ redirect_from:
 
 -**Education**
 
-* Ph.D in Statistics, University of Georgia, USA, 2019-present
+* Postdoc in Statistics, Harvard University, USA, present
+* Ph.D in Statistics, University of Georgia, USA, 2019-2024
 * B.S. in Mathematical Statistics, Nankai University, China, 2019
 
   
