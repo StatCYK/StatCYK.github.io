@@ -10,6 +10,7 @@ Yongkai Chen, Shushan Wu, Ping Ma, Wenxuan Zhong
 
 *Journal of Computational and Graphical Statistics*, 2025. [[PDF]](https://www.tandfonline.com/doi/full/10.1080/10618600.2024.2444373)
 
+---
 
 - **Bisection Grover’s Search Algorithm and Its Application in Analyzing CITE-seq Data**
   
