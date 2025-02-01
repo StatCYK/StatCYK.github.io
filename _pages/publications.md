@@ -6,20 +6,20 @@ author_profile: true
 ---
 - **Fluid Correlation: A Novel Nonparametric Metric to Assess the Dynamic Association**
   
- *Yongkai Chen, Shushan Wu, Ping Ma, Wenxuan Zhong*
+Yongkai Chen, Shushan Wu, Ping Ma, Wenxuan Zhong
 
 *Journal of Computational and Graphical Statistics*, 2025. [[PDF]](https://www.tandfonline.com/doi/full/10.1080/10618600.2024.2444373)
 
 
 - **Bisection Grover’s Search Algorithm and Its Application in Analyzing CITE-seq Data**
   
- *Ping Ma#, Yongkai Chen#, Haoran Lu, Wenxuan Zhong*
+ Ping Ma#, Yongkai Chen#, Haoran Lu, Wenxuan Zhong
 
  *Journal of the American Statistical Association*, 2024. [[PDF]](https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2404259)
 
- **Media Coverage**:  
-  - **UGA researchers unveil the development of a novel quantum computing algorithm**  
-    [[Article]](https://franklin.uga.edu/news/stories/2024/uga-researchers-unveil-development-novel-quantum-computing-algorithm)
+  **Media Coverage**:  
+   - **UGA researchers unveil the development of a novel quantum computing algorithm**  
+     [[Article]](https://franklin.uga.edu/news/stories/2024/uga-researchers-unveil-development-novel-quantum-computing-algorithm)
 
 - **Decreased GABA levels during development result in increased connectivity in the larval zebrafish tectum**
   
@@ -29,14 +29,14 @@ Yang Liu#, Yongkai Chen#, Carly R. Duffy#, Ariel J. VanLeuven, John Branson Byer
 
 - **Bayesian Knowledge Distillation: A Bayesian Perspective of Distillation with Uncertainty Quantification**
 
- *Luyang Fang#, Yongkai Chen#, Wenxuan Zhong, and Ping Ma*
+Luyang Fang#, Yongkai Chen#, Wenxuan Zhong, and Ping Ma
 
 *In Forty-first International Conference on Machine Learning*, 2024. [[PDF]](https://openreview.net/forum?id=knZ4NYzGUd)
 
 
 - **Orthogonal multimodality integration and clustering in single-cell data**
 
- *Yongkai Chen#, Yufang Liu#, Haoran Lu, Wenxuan Zhong, Guo-Cheng Yuan, and Ping Ma.*
+ Yongkai Chen#, Yufang Liu#, Haoran Lu, Wenxuan Zhong, Guo-Cheng Yuan, and Ping Ma.
 
  *BMC bioinformatics*, 2024. [[PDF]](https://link.springer.com/article/10.1186/s12859-024-05773-y)
 
