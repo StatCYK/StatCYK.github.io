@@ -16,6 +16,7 @@ Yongkai Chen, Shushan Wu, Ping Ma, Wenxuan Zhong
 Ping Ma#, Yongkai Chen#, Haoran Lu, Wenxuan Zhong
 
 *Journal of the American Statistical Association*, 2024. [[PDF]](https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2404259)
+@ media [[UGA researchers unveil the development of a novel quantum computing algorithm]](https://franklin.uga.edu/news/stories/2024/uga-researchers-unveil-development-novel-quantum-computing-algorithm)
 
 - **Decreased GABA levels during development result in increased connectivity in the larval zebrafish tectum**
   
