@@ -10,5 +10,4 @@ I develop statistical methods in non-parametric analysis, machine learning, high
 * Non-parametric and Bayesian methods
 * Machine learning
 * Bioinformatics
-* Subsampling methods
 * Medical Imaging and Computer Vision
