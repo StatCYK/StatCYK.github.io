@@ -4,12 +4,6 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
----
-layout: archive
-title: "Publications"
-permalink: /publications/
-author_profile: true
----
 
 <sup>\*</sup> denotes equal contribution. See also my [Google Scholar profile](https://scholar.google.com/citations?user=Ifht6gwAAAAJ&hl=en).
 
