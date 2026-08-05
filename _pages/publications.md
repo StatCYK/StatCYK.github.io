@@ -23,7 +23,7 @@ Huimin Cheng\*, **Yongkai Chen**\*, Ping Ma, Wenxuan Zhong<br>
 
 #### SpaDiff: Denoising for Sequence-based Spatial Transcriptomics via Diffusion Process
 Jiazhang Cai, **Yongkai Chen**, Luyang Fang, Wenxuan Zhong, Guo-Cheng Yuan, Ping Ma<br>
-*Cell Reports Methods, 2026.* &nbsp;·&nbsp; [bioRxiv](https://doi.org/10.1101/2025.10.07.681011)
+*Cell Reports Methods, 2026.* &nbsp;·&nbsp;
 
 #### Knowledge Cascade: Reverse Knowledge Distillation on Nonparametric Multivariate Functional Estimation
 Luyang Fang, Haoran Lu, **Yongkai Chen**, Wenxuan Zhong, Ping Ma<br>
