@@ -11,7 +11,7 @@ See also my [Google Scholar profile](https://scholar.google.com/citations?user=I
 
 * **Yongkai Chen**, Samuel W. K. Wong, S. C. Kou (2026). [Classifying Metamorphic versus Single-Fold Proteins with Statistical Learning and AlphaFold2](https://arxiv.org/abs/2512.10066). ***Annals of Applied Statistics***, accepted.
 
-* **Yongkai Chen**, Wenxuan Zhong, Ping Ma (2026). [Wahkon: A Statistically Principled Deep RKHS Superposition Network](https://arxiv.org/abs/2605.14041). ***Proceedings of STAI-X***. **(Best Paper Award)** \[[code](https://github.com/StatCYK/Wahkon)\]
+* **Yongkai Chen**, Wenxuan Zhong, Ping Ma (2026). [Wahkon: A Statistically Principled Deep RKHS Superposition Network](https://arxiv.org/abs/2605.14041). ***The First Conference on Statistics and Trustworthy AI for Cross (X)-Domain***. **(Best Paper Award)** \[[code](https://github.com/StatCYK/Wahkon)\]
 
 * Huimin Cheng\*, **Yongkai Chen**\*, Ping Ma, Wenxuan Zhong (2026). Graphon Cross-Validation: Assessing Models on Network Data. ***International Conference on Learning Representations (ICLR)***. (\* joint first authors)
 
