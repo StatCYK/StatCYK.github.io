@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-[My CV](https://github.com/StatCYK/StatCYK.github.io/blob/master/files/CV_Yonggkai_Chen.pdf)
 
 -**Education**
 
