@@ -9,8 +9,11 @@ author_profile: false
 
 ### University of Georgia · Fall 2023
 
-- **Introductory Statistics (STAT 2000).** Led labs connecting statistical concepts with intuitive examples and applications.
 - **Advanced Statistical Computing (STAT 8070).** Introduced quantum computing for statistical inference in a course session.
+
+### University of Georgia · Fall 2019
+
+- **Introductory Statistics (STAT 2000).** Led labs connecting statistical concepts with intuitive examples and applications.
 
 ### Nankai University · Fall 2018–Spring 2019
 
