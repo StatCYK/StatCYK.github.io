@@ -21,5 +21,5 @@ author_profile: false
 
 ## Workshops developed and taught
 
-- **Quantum Computing Workshop · 2022–2024.** Fundamentals of quantum computing and hands-on programming on IBM quantum devices.
+- **Quantum Computing Workshop · 2022–2024.** Fundamentals of quantum computing and hands-on programming on IBM quantum devices. \[[slides (PPTX)]({{ '/files/Quantum%20Computing%20Tutorial%20Yongkai.pptx' | relative_url }})\]
 - **GPU Systems Hands-On Workshop · 2021–2024.** Practical computing instruction for junior researchers and trainees.
