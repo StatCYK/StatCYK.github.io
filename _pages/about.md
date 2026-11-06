@@ -132,7 +132,7 @@ redirect_from:
         <h3><a href="https://doi.org/10.1080/10618600.2024.2444373">Fluid Correlation: A Novel Nonparametric Metric to Assess the Dynamic Association</a></h3>
         <p class="academic-paper-authors"><strong>Yongkai Chen</strong>, Shushan Wu, Ping Ma, Wenxuan Zhong</p>
         <p class="academic-paper-venue"><em>Journal of Computational and Graphical Statistics, 2025</em></p>
-        <p class="academic-paper-summary">A nonparametric metric for assessing dynamic association, with applications to microbiome data.</p>
+        <p class="academic-paper-summary">A nonparametric metric for assessing dynamic association with Bayesian uncertainty quantification.</p>
         <p class="academic-paper-links"><a href="https://doi.org/10.1080/10618600.2024.2444373">[paper]</a></p>
       </div>
     </article>
