@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yongkai Chen's Homepage"
+title                    : "Yongkai Chen"
 title_separator          : "-"
 name                     : &name "Yongkai Chen"
-description              : &description "personal description"
+description              : &description "Statistics, machine learning, and AI for scientific discovery"
 url                      : https://StatCYK.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "StatCYK/StatCYK.github.io"

@@ -1,14 +1,15 @@
 ---
-layout: archive
-title: "Research"
+layout: null
 permalink: /Research/
-author_profile: true
+sitemap: false
 ---
-My research develops statistical foundations for AI-driven scientific discovery. I develop principled Bayesian and deep learning methods for reliable inference, interpretability, uncertainty quantification, and scalable computation, motivated by foundation models and large-scale scientific data. I also explore quantum computing for statistical inference and computation.
-
-Current research directions include:
-
-* Bayesian nonparametrics and deep learning
-* scalable statistical computing and inference
-* quantum statistical computing
-* AI for scientific discovery, particularly in computational biology and protein science.
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Research</title>
+<meta http-equiv="refresh" content="0;url={{ '/#research-title' | relative_url }}">
+<link rel="canonical" href="{{ '/#research-title' | absolute_url }}">
+</head>
+<body><p><a href="{{ '/#research-title' | relative_url }}">Research overview</a></p></body>
+</html>

@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="468" height="295" viewBox="0 0 468 295">
+<rect width="468" height="295" fill="white"/>
+<text x="42" y="27.8" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#111111" font-weight="400" text-anchor="start">Bayesian knowledge transfer</text>
+<rect x="25" y="214" width="43" height="13" fill="white" stroke="#111111"/>
+<ellipse cx="46.5" cy="226.0" rx="21.5" ry="7.0" fill="white" stroke="#111111" stroke-width="1.3"/>
+<polyline points="25,214 25,226" fill="none" stroke="#111111" stroke-width="1.3"/>
+<polyline points="68,214 68,226" fill="none" stroke="#111111" stroke-width="1.3"/>
+<rect x="25" y="203" width="43" height="13" fill="white" stroke="#111111"/>
+<ellipse cx="46.5" cy="215.0" rx="21.5" ry="7.0" fill="white" stroke="#111111" stroke-width="1.3"/>
+<polyline points="25,203 25,215" fill="none" stroke="#111111" stroke-width="1.3"/>
+<polyline points="68,203 68,215" fill="none" stroke="#111111" stroke-width="1.3"/>
+<rect x="25" y="192" width="43" height="13" fill="white" stroke="#111111"/>
+<ellipse cx="46.5" cy="204.0" rx="21.5" ry="7.0" fill="white" stroke="#111111" stroke-width="1.3"/>
+<polyline points="25,192 25,204" fill="none" stroke="#111111" stroke-width="1.3"/>
+<polyline points="68,192 68,204" fill="none" stroke="#111111" stroke-width="1.3"/>
+<rect x="25" y="181" width="43" height="13" fill="white" stroke="#111111"/>
+<ellipse cx="46.5" cy="193.0" rx="21.5" ry="7.0" fill="white" stroke="#111111" stroke-width="1.3"/>
+<polyline points="25,181 25,193" fill="none" stroke="#111111" stroke-width="1.3"/>
+<polyline points="68,181 68,193" fill="none" stroke="#111111" stroke-width="1.3"/>
+<ellipse cx="46.5" cy="183.0" rx="21.5" ry="7.0" fill="white" stroke="#111111" stroke-width="1.3"/>
+<circle cx="51" cy="198" r="1.1" fill="#111111" stroke="#111111"/>
+<circle cx="57" cy="198" r="1.1" fill="#111111" stroke="#111111"/>
+<circle cx="63" cy="198" r="1.1" fill="#111111" stroke="#111111"/>
+<circle cx="51" cy="210" r="1.1" fill="#111111" stroke="#111111"/>
+<circle cx="57" cy="210" r="1.1" fill="#111111" stroke="#111111"/>
+<circle cx="63" cy="210" r="1.1" fill="#111111" stroke="#111111"/>
+<circle cx="51" cy="222" r="1.1" fill="#111111" stroke="#111111"/>
+<circle cx="57" cy="222" r="1.1" fill="#111111" stroke="#111111"/>
+<circle cx="63" cy="222" r="1.1" fill="#111111" stroke="#111111"/>
+<text x="46.5" y="256.4" font-family="Arial,Helvetica,sans-serif" font-size="13" fill="#111111" font-weight="400" text-anchor="middle">Database</text>
+<polyline points="136,80 136,96" fill="none" stroke="#A10860" stroke-width="1.6"/>
+<circle cx="136" cy="78" r="2.7" fill="#A10860" stroke="#A10860"/>
+<polyline points="178,80 178,96" fill="none" stroke="#A10860" stroke-width="1.6"/>
+<circle cx="178" cy="78" r="2.7" fill="#A10860" stroke="#A10860"/>
+<rect x="147" y="78" width="20" height="13" rx="4" fill="white" stroke="#A10860" stroke-width="1.2"/>
+<rect x="130" y="92" width="54" height="32" rx="12" fill="#A10860" stroke="#A10860" stroke-width="1.2"/>
+<rect x="125" y="101" width="7" height="15" rx="3" fill="#A10860" stroke="#A10860" stroke-width="1.2"/>
+<rect x="182" y="101" width="7" height="15" rx="3" fill="#A10860" stroke="#A10860" stroke-width="1.2"/>
+<ellipse cx="157.0" cy="109.0" rx="20.0" ry="12.0" fill="white" stroke="white" stroke-width="1.3"/>
+<text x="157" y="115.0" font-family="Arial,Helvetica,sans-serif" font-size="20" fill="#A10860" font-weight="700" text-anchor="middle">AI</text>
+<rect x="152" y="125" width="10" height="5" rx="2" fill="#A10860" stroke="#A10860" stroke-width="1.2"/>
+<rect x="132" y="133" width="50" height="49" rx="14" fill="#F9F1F6" stroke="#A10860" stroke-width="1.2"/>
+<polyline points="144,152 157,144" fill="none" stroke="#B56B96" stroke-width="0.65"/>
+<polyline points="144,152 157,160" fill="none" stroke="#B56B96" stroke-width="0.65"/>
+<polyline points="144,152 157,177" fill="none" stroke="#B56B96" stroke-width="0.65"/>
+<polyline points="144,169 157,144" fill="none" stroke="#B56B96" stroke-width="0.65"/>
+<polyline points="144,169 157,160" fill="none" stroke="#B56B96" stroke-width="0.65"/>
+<polyline points="144,169 157,177" fill="none" stroke="#B56B96" stroke-width="0.65"/>
+<polyline points="157,144 170,152" fill="none" stroke="#B56B96" stroke-width="0.65"/>
+<polyline points="157,144 170,169" fill="none" stroke="#B56B96" stroke-width="0.65"/>
+<polyline points="157,160 170,152" fill="none" stroke="#B56B96" stroke-width="0.65"/>
+<polyline points="157,160 170,169" fill="none" stroke="#B56B96" stroke-width="0.65"/>
+<polyline points="157,177 170,152" fill="none" stroke="#B56B96" stroke-width="0.65"/>
+<polyline points="157,177 170,169" fill="none" stroke="#B56B96" stroke-width="0.65"/>
+<circle cx="144" cy="152" r="2.6" fill="white" stroke="#A10860"/>
+<circle cx="144" cy="169" r="2.6" fill="#A10860" stroke="#A10860"/>
+<circle cx="157" cy="144" r="2.6" fill="white" stroke="#A10860"/>
+<circle cx="157" cy="160" r="2.6" fill="#A10860" stroke="#A10860"/>
+<circle cx="157" cy="177" r="2.6" fill="white" stroke="#A10860"/>
+<circle cx="170" cy="152" r="2.6" fill="#A10860" stroke="#A10860"/>
+<circle cx="170" cy="169" r="2.6" fill="white" stroke="#A10860"/>
+<text x="157" y="53.4" font-family="Arial,Helvetica,sans-serif" font-size="13" fill="#111111" font-weight="400" text-anchor="middle">Well-trained model</text>
+<polyline points="266,132 266,148" fill="none" stroke="#A10860" stroke-width="1.6"/>
+<circle cx="266" cy="130" r="2.7" fill="#A10860" stroke="#A10860"/>
+<polyline points="308,132 308,148" fill="none" stroke="#A10860" stroke-width="1.6"/>
+<circle cx="308" cy="130" r="2.7" fill="#A10860" stroke="#A10860"/>
+<rect x="277" y="130" width="20" height="13" rx="4" fill="white" stroke="#A10860" stroke-width="1.2"/>
+<rect x="260" y="144" width="54" height="32" rx="12" fill="#A10860" stroke="#A10860" stroke-width="1.2"/>
+<rect x="255" y="153" width="7" height="15" rx="3" fill="#A10860" stroke="#A10860" stroke-width="1.2"/>
+<rect x="312" y="153" width="7" height="15" rx="3" fill="#A10860" stroke="#A10860" stroke-width="1.2"/>
+<ellipse cx="287.0" cy="161.0" rx="20.0" ry="12.0" fill="white" stroke="white" stroke-width="1.3"/>
+<text x="287" y="167.0" font-family="Arial,Helvetica,sans-serif" font-size="20" fill="#A10860" font-weight="700" text-anchor="middle">AI</text>
+<rect x="282" y="177" width="10" height="5" rx="2" fill="#A10860" stroke="#A10860" stroke-width="1.2"/>
+<rect x="262" y="185" width="50" height="49" rx="14" fill="#F9F1F6" stroke="#A10860" stroke-width="1.2"/>
+<polyline points="274,204 287,196" fill="none" stroke="#B56B96" stroke-width="0.65"/>
+<polyline points="274,204 287,212" fill="none" stroke="#B56B96" stroke-width="0.65"/>
+<polyline points="274,204 287,229" fill="none" stroke="#B56B96" stroke-width="0.65"/>
+<polyline points="274,221 287,196" fill="none" stroke="#B56B96" stroke-width="0.65"/>
+<polyline points="274,221 287,212" fill="none" stroke="#B56B96" stroke-width="0.65"/>
+<polyline points="274,221 287,229" fill="none" stroke="#B56B96" stroke-width="0.65"/>
+<polyline points="287,196 300,204" fill="none" stroke="#B56B96" stroke-width="0.65"/>
+<polyline points="287,196 300,221" fill="none" stroke="#B56B96" stroke-width="0.65"/>
+<polyline points="287,212 300,204" fill="none" stroke="#B56B96" stroke-width="0.65"/>
+<polyline points="287,212 300,221" fill="none" stroke="#B56B96" stroke-width="0.65"/>
+<polyline points="287,229 300,204" fill="none" stroke="#B56B96" stroke-width="0.65"/>
+<polyline points="287,229 300,221" fill="none" stroke="#B56B96" stroke-width="0.65"/>
+<circle cx="274" cy="204" r="2.6" fill="white" stroke="#A10860"/>
+<circle cx="274" cy="221" r="2.6" fill="#A10860" stroke="#A10860"/>
+<circle cx="287" cy="196" r="2.6" fill="white" stroke="#A10860"/>
+<circle cx="287" cy="212" r="2.6" fill="#A10860" stroke="#A10860"/>
+<circle cx="287" cy="229" r="2.6" fill="white" stroke="#A10860"/>
+<circle cx="300" cy="204" r="2.6" fill="#A10860" stroke="#A10860"/>
+<circle cx="300" cy="221" r="2.6" fill="white" stroke="#A10860"/>
+<polyline points="79,190 121,143" fill="none" stroke="#3274B4" stroke-width="1.3"/>
+<polyline points="119.05984410765632,148.67765753752408 121,143 115.57537815604023,145.5638794531012" fill="none" stroke="#3274B4" stroke-width="1.3"/>
+<polyline points="79,218 255,218" fill="none" stroke="#3274B4" stroke-width="1.3"/>
+<polyline points="249.47363403598268,220.3365100538519 255,218 249.47363403598268,215.6634899461481" fill="none" stroke="#3274B4" stroke-width="1.3"/>
+<polyline points="195,141 249,141" fill="none" stroke="#3274B4" stroke-width="1.3"/>
+<polyline points="243.47363403598268,143.3365100538519 249,141 243.47363403598268,138.6634899461481" fill="none" stroke="#3274B4" stroke-width="1.3"/>
+<text x="222" y="161.4" font-family="Arial,Helvetica,sans-serif" font-size="13" fill="#111111" font-weight="400" text-anchor="middle">Prior</text>
+<polyline points="327,164 353,164" fill="none" stroke="#3274B4" stroke-width="1.3"/>
+<polyline points="347.4736340359827,166.3365100538519 353,164 347.4736340359827,161.6634899461481" fill="none" stroke="#3274B4" stroke-width="1.3"/>
+<text x="363" y="159.4" font-family="Arial,Helvetica,sans-serif" font-size="13" fill="#111111" font-weight="400" text-anchor="start">Prediction</text>
+<text x="363" y="179.4" font-family="Arial,Helvetica,sans-serif" font-size="13" fill="#111111" font-weight="400" text-anchor="start">&amp; uncertainty</text>
+<text x="287" y="256.4" font-family="Arial,Helvetica,sans-serif" font-size="13" fill="#111111" font-weight="400" text-anchor="middle">Working model</text>
+<text x="287" y="274.6" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#111111" font-weight="400" text-anchor="middle">trained under Bayes&#x27; rule</text>
+</svg>

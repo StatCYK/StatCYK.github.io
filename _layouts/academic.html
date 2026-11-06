@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    {% include head.html %}
+  </head>
+  <body class="academic-home">
+    <nav class="academic-nav" aria-label="Main navigation">
+      <a href="{{ '/' | relative_url }}"{% if page.url == '/' %} aria-current="page"{% endif %}>Home</a>
+      {% for link in site.data.navigation.main %}
+        <a href="{{ link.url | relative_url }}"{% if page.url == link.url %} aria-current="page"{% endif %}>{{ link.title }}</a>
+      {% endfor %}
+    </nav>
+    {{ content }}
+    <footer class="academic-footer">&copy; {{ site.time | date: '%Y' }} {{ site.name }}</footer>
+    {% if page.url == '/' %}<script src="{{ '/assets/js/research-overview.js' | relative_url }}" defer></script>{% endif %}
+  </body>
+</html>
