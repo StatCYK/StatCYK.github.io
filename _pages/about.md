@@ -144,7 +144,7 @@ redirect_from:
         <div>
           <h3>Protein science</h3>
           <p>Proteins are dynamic molecules whose changing shapes are closely connected to their biological roles. My research brings statistics and AI together to explore the diversity of protein structures and how proteins move between different conformations. I am interested in turning computational predictions into reliable insights about protein behavior.</p>
-          <p>AOAS: <a href="https://arxiv.org/abs/2512.10066">[paper]</a> <a href="https://github.com/StatCYK/Metamorphic-Classify">[code]</a><br>SMICE: <a href="https://doi.org/10.1101/2025.10.08.681198">[paper]</a> <a href="https://github.com/StatCYK/SMICE">[code]</a></p>
+          <p><a href="https://github.com/StatCYK/Metamorphic-Classify"><strong>Metamorphic-Classify</strong></a>: <a href="https://arxiv.org/abs/2512.10066">[paper]</a> <a href="https://github.com/StatCYK/Metamorphic-Classify">[code]</a><br>SMICE: <a href="https://doi.org/10.1101/2025.10.08.681198">[paper]</a> <a href="https://github.com/StatCYK/SMICE">[code]</a></p>
         </div>
       </article>
       <article class="research-entry research-entry--illustrated">
