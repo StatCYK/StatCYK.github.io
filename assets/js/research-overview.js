@@ -17,9 +17,11 @@
       panels[index].hidden = !selected;
     });
     filters.forEach(button => button.setAttribute('aria-pressed', String(button.dataset.filter === topic)));
-    papers.forEach(paper => { paper.hidden = topic !== 'all' && paper.dataset.topic !== topic; });
+    papers.forEach(paper => {
+      paper.hidden = topic === 'all' ? paper.dataset.selected === 'false' : paper.dataset.topic !== topic;
+    });
     const count = papers.filter(paper => !paper.hidden).length;
-    document.querySelector('.research-count').textContent = count + ' selected publications';
+    document.querySelector('.research-count').textContent = count + (topic === 'all' ? ' selected publications' : ' publications');
   }
 
   function readHash() {

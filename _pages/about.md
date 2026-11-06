@@ -136,6 +136,30 @@ redirect_from:
         <p class="academic-paper-links"><a href="https://doi.org/10.1080/10618600.2024.2444373">[paper]</a></p>
       </div>
     </article>
+    <article class="academic-paper" id="paper-omic" data-topic="biology" data-selected="false" hidden>
+      <a class="academic-paper-media" href="{{ '/images/research/single-cell-overview-v2.png' | relative_url }}" aria-label="Enlarge the CITE-seq illustration for OMIC">
+        <img src="{{ '/images/research/single-cell-overview-v2.png' | relative_url }}" width="210" height="144" loading="lazy" alt="CITE-seq schematic showing joint RNA and cell-surface protein measurements">
+      </a>
+      <div>
+        <h3><a href="https://doi.org/10.1186/s12859-024-05773-y">Orthogonal Multimodality Integration and Clustering in Single-Cell Data</a></h3>
+        <p class="academic-paper-authors">Yufang Liu*, <strong>Yongkai Chen*</strong>, Haoran Lu, Wenxuan Zhong, Guo-Cheng Yuan, Ping Ma</p>
+        <p class="academic-paper-venue"><em>BMC Bioinformatics, 2024 · * Equal contribution</em></p>
+        <p class="academic-paper-summary">OMIC integrates RNA and protein measurements to identify cell populations and interpret the contribution of each modality.</p>
+        <p class="academic-paper-links"><a href="https://doi.org/10.1186/s12859-024-05773-y">[paper]</a></p>
+      </div>
+    </article>
+    <article class="academic-paper" id="paper-spadiff" data-topic="biology" data-selected="false" hidden>
+      <a class="academic-paper-media" href="{{ '/images/research/spadiff-figure1.webp' | relative_url }}" aria-label="Enlarge Figure 1 from SpaDiff">
+        <img src="{{ '/images/research/spadiff-figure1.webp' | relative_url }}" width="210" height="144" loading="lazy" alt="SpaDiff Figure 1: spot-swapping in spatial transcriptomics and reverse-diffusion denoising">
+      </a>
+      <div>
+        <h3><a href="https://doi.org/10.1016/j.crmeth.2026.101530">SpaDiff denoises sequence-based spatial transcriptomics via diffusion process</a></h3>
+        <p class="academic-paper-authors">Jiazhang Cai, <strong>Yongkai Chen</strong>, Luyang Fang, Xinyi Liu, Wenxuan Zhong, Guo-Cheng Yuan, Ping Ma</p>
+        <p class="academic-paper-venue"><em>Cell Reports Methods, 2026</em></p>
+        <p class="academic-paper-summary">SpaDiff reverses RNA spot-swapping to recover spatial gene-expression patterns while preserving total molecular counts.</p>
+        <p class="academic-paper-links"><a href="https://doi.org/10.1016/j.crmeth.2026.101530">[paper]</a><a href="https://github.com/JiazhangCai/SpaDiff">[code]</a></p>
+      </div>
+    </article>
       <p class="academic-publications-link"><a href="{{ '/publications/' | relative_url }}">Complete publication list</a></p>
     </section>
     <section id="interdisciplinary" role="tabpanel" aria-labelledby="tab-interdisciplinary" tabindex="0">
