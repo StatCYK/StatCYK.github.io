@@ -12,6 +12,6 @@
     </nav>
     {{ content }}
     <footer class="academic-footer">&copy; {{ site.time | date: '%Y' }} {{ site.name }}</footer>
-    {% if page.url == '/' %}<script src="{{ '/assets/js/research-overview.js' | relative_url }}" defer></script>{% endif %}
+    {% if page.url == '/' %}<script src="{{ '/assets/js/research-overview.js' | relative_url }}?v={{ site.time | date: '%s' }}" defer></script>{% endif %}
   </body>
 </html>
