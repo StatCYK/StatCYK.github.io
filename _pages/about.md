@@ -143,7 +143,7 @@ redirect_from:
         <div class="research-entry-media"><img src="{{ '/images/research/protein-folding-overview.png' | relative_url }}" alt="Amino acid sequence folding into a three-dimensional protein structure"></div>
         <div>
           <h3>Protein science</h3>
-          <p>I combine statistical learning, protein structure prediction, and coevolutionary information to study alternative protein conformations and fold switching.</p>
+          <p>My research uses statistics and AI to understand protein structure, dynamics, and function.</p>
           <p>AOAS: <a href="https://arxiv.org/abs/2512.10066">[paper]</a> <a href="https://github.com/StatCYK/Metamorphic-Classify">[code]</a><br>SMICE: <a href="https://doi.org/10.1101/2025.10.08.681198">[paper]</a> <a href="https://github.com/StatCYK/SMICE">[code]</a></p>
         </div>
       </article>
