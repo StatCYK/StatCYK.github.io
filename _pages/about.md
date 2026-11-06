@@ -143,7 +143,7 @@ redirect_from:
         <div class="research-entry-media"><img src="{{ '/images/research/protein-folding-overview.png' | relative_url }}" alt="Amino acid sequence folding into a three-dimensional protein structure"></div>
         <div>
           <h3>Protein science</h3>
-          <p>My research uses statistics and AI to understand protein structure, dynamics, and function.</p>
+          <p>Proteins are dynamic molecules whose changing shapes are closely connected to their biological roles. My research brings statistics and AI together to explore the diversity of protein structures and how proteins move between different conformations. I am interested in turning computational predictions into reliable insights about protein behavior.</p>
           <p>AOAS: <a href="https://arxiv.org/abs/2512.10066">[paper]</a> <a href="https://github.com/StatCYK/Metamorphic-Classify">[code]</a><br>SMICE: <a href="https://doi.org/10.1101/2025.10.08.681198">[paper]</a> <a href="https://github.com/StatCYK/SMICE">[code]</a></p>
         </div>
       </article>
@@ -153,7 +153,7 @@ redirect_from:
         </div>
         <div>
           <h3>Single-cell and spatial omics</h3>
-          <p>My work includes multimodal single-cell integration, spatial transcriptomics denoising, and quantum search applied to CITE-seq data.</p>
+          <p>Individual cells differ in their molecular activity, biological roles, and responses to their surroundings. My research develops statistical approaches to bring together complementary measurements of cells and understand how they are organized within tissues. The goal is to reveal meaningful cellular variation while accounting for the noise and complexity of modern biological data.</p>
           <p>Multimodality integration: <a href="https://doi.org/10.1186/s12859-024-05773-y">[paper]</a><br>SpaDiff: <a href="https://doi.org/10.1101/2025.10.07.681011">[paper]</a><br>BGS for CITE-seq: <a href="https://doi.org/10.1080/01621459.2024.2404259">[paper]</a> <a href="https://github.com/StatCYK/BGS-for-CITEseq">[code]</a></p>
         </div>
       </article>
@@ -161,7 +161,7 @@ redirect_from:
         <div class="research-entry-media"><img src="{{ '/images/research/microbiome-overview-v2.png' | relative_url }}" alt="Conceptual illustration of diverse microbes in a microbial community"></div>
         <div>
           <h3>Microbiome</h3>
-          <p>Fluid Correlation assesses dynamic associations in microbiome data using a nonparametric statistical metric.</p>
+          <p>Microbial communities are dynamic ecosystems in which relationships between organisms can change over time and across environments. My research studies these changing associations to better understand the collective behavior of microbial communities. Through Fluid Correlation, I develop statistical tools that describe how these relationships evolve and quantify uncertainty in the resulting conclusions.</p>
           <p>Fluid Correlation: <a href="https://doi.org/10.1080/10618600.2024.2444373">[paper]</a></p>
         </div>
       </article>
@@ -169,7 +169,7 @@ redirect_from:
         <div class="research-entry-media"><img src="{{ '/images/research/biomedical-imaging-overview.png' | relative_url }}" alt="Conceptual illustration of echocardiographic imaging and cardiac surface reconstruction"></div>
         <div>
           <h3>Biomedical imaging</h3>
-          <p>Collaborative projects apply statistical and machine learning methods to echocardiography and three-dimensional cardiac morphology reconstruction.</p>
+          <p>Medical images offer a window into the structure and function of the human body, but translating them into useful information requires careful analysis. In collaborative work, I use statistics and machine learning to extract information from cardiac ultrasound and reconstruct three-dimensional heart morphology. These projects connect advances in data analysis with questions about cardiac structure and function.</p>
           <p>S2MNet: <a href="https://arxiv.org/abs/2505.06105">[paper]</a></p>
         </div>
       </article>
@@ -177,7 +177,7 @@ redirect_from:
         <div class="research-entry-media"><img src="{{ '/images/research/neuroscience-overview.png' | relative_url }}" alt="Conceptual illustration of neurons and synaptic connections"></div>
         <div>
           <h3>Neuroscience</h3>
-          <p>Collaborative work uses statistical methods to study neural activity and connectivity.</p>
+          <p>Brain function emerges from the coordinated activity of many interacting neurons. My collaborative research uses statistical analysis to study how neural activity is organized and how connections between neurons change during development. By examining patterns across neural populations, we seek to understand how changes in biological conditions are reflected in the behavior of neural circuits.</p>
           <p>Neural connectivity: <a href="https://doi.org/10.1101/2024.09.11.612511">[paper]</a> <a href="https://github.com/StatCYK/neural-activity-analysis">[code]</a></p>
         </div>
       </article>
