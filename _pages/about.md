@@ -144,7 +144,7 @@ redirect_from:
         <div>
           <h3>Protein science</h3>
           <p>I combine statistical learning, protein structure prediction, and coevolutionary information to study alternative protein conformations and fold switching.</p>
-          <p><a href="#publications/biology" data-research-topic="biology">Related publications: AOAS and SMICE</a></p>
+          <p>AOAS: <a href="https://arxiv.org/abs/2512.10066">[paper]</a> <a href="https://github.com/StatCYK/Metamorphic-Classify">[code]</a><br>SMICE: <a href="https://doi.org/10.1101/2025.10.08.681198">[paper]</a> <a href="https://github.com/StatCYK/SMICE">[code]</a></p>
         </div>
       </article>
       <article class="research-entry research-entry--illustrated">
@@ -154,7 +154,7 @@ redirect_from:
         <div>
           <h3>Single-cell and spatial omics</h3>
           <p>My work includes multimodal single-cell integration, spatial transcriptomics denoising, and quantum search applied to CITE-seq data.</p>
-          <p><a href="https://doi.org/10.1186/s12859-024-05773-y">Multimodality integration</a> · <a href="https://doi.org/10.1101/2025.10.07.681011">SpaDiff</a> · <a href="https://github.com/StatCYK/BGS-for-CITEseq">BGS for CITE-seq</a></p>
+          <p>Multimodality integration: <a href="https://doi.org/10.1186/s12859-024-05773-y">[paper]</a><br>SpaDiff: <a href="https://doi.org/10.1101/2025.10.07.681011">[paper]</a><br>BGS for CITE-seq: <a href="https://doi.org/10.1080/01621459.2024.2404259">[paper]</a> <a href="https://github.com/StatCYK/BGS-for-CITEseq">[code]</a></p>
         </div>
       </article>
       <article class="research-entry research-entry--illustrated">
@@ -162,7 +162,7 @@ redirect_from:
         <div>
           <h3>Microbiome</h3>
           <p>Fluid Correlation assesses dynamic associations in microbiome data using a nonparametric statistical metric.</p>
-          <p><a href="https://doi.org/10.1080/10618600.2024.2444373">Fluid Correlation</a></p>
+          <p>Fluid Correlation: <a href="https://doi.org/10.1080/10618600.2024.2444373">[paper]</a></p>
         </div>
       </article>
       <article class="research-entry research-entry--illustrated">
@@ -170,7 +170,7 @@ redirect_from:
         <div>
           <h3>Biomedical imaging</h3>
           <p>Collaborative projects apply statistical and machine learning methods to echocardiography and three-dimensional cardiac morphology reconstruction.</p>
-          <p><a href="https://arxiv.org/abs/2505.06105">S2MNet</a></p>
+          <p>S2MNet: <a href="https://arxiv.org/abs/2505.06105">[paper]</a></p>
         </div>
       </article>
       <article class="research-entry research-entry--illustrated">
@@ -178,7 +178,7 @@ redirect_from:
         <div>
           <h3>Neuroscience</h3>
           <p>Collaborative work uses statistical methods to study neural activity and connectivity.</p>
-          <p><a href="https://doi.org/10.1101/2024.09.11.612511">Neural connectivity</a> · <a href="https://github.com/StatCYK/neural-activity-analysis">Analysis code</a></p>
+          <p>Neural connectivity: <a href="https://doi.org/10.1101/2024.09.11.612511">[paper]</a> <a href="https://github.com/StatCYK/neural-activity-analysis">[code]</a></p>
         </div>
       </article>
     </section>
