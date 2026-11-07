@@ -24,7 +24,7 @@ redirect_from:
 
   <section class="academic-section" aria-labelledby="research-title">
     <h2 id="research-title">Research overview</h2>
-    <p>My research develops statistical foundations for AI-driven scientific discovery, with applications in computational biology and protein science. My interests include Bayesian nonparametric modeling and inference, uncertainty quantification, and scalable and quantum statistical computing.</p>
+    <p>My research develops statistical foundations for AI-driven scientific discovery, with applications in computational biology and protein science. My interests include Bayesian nonparametrics, the statistical foundations of deep learning, AI for scientific discovery, and both scalable computing and quantum statistical computing.</p>
     <figure class="academic-overview">
       <a href="{{ '/images/research/research-overview.png' | relative_url }}" aria-label="View the research overview at full size">
         <img src="{{ '/images/research/research-overview.png' | relative_url }}" width="1672" height="940" alt="Research overview: scientific questions and biological data lead to AI-generated predictions and ensembles, then scientific inference and discovery, supported by Bayesian nonparametric modeling and inference and scalable and quantum statistical computing.">
