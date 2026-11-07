@@ -18,7 +18,8 @@
     });
     filters.forEach(button => button.setAttribute('aria-pressed', String(button.dataset.filter === topic)));
     papers.forEach(paper => {
-      paper.hidden = topic === 'all' ? paper.dataset.selected === 'false' : paper.dataset.topic !== topic;
+      const paperTopics = paper.dataset.topic.split(/\s+/);
+      paper.hidden = topic === 'all' ? paper.dataset.selected === 'false' : !paperTopics.includes(topic);
     });
     const count = papers.filter(paper => !paper.hidden).length;
     document.querySelector('.research-count').textContent = count + (topic === 'all' ? ' selected publications' : ' publications');

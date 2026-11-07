@@ -43,6 +43,7 @@ redirect_from:
         <span>Topics:</span>
         <button type="button" data-filter="all" aria-pressed="true">All</button>
         <button type="button" data-filter="bayesian" aria-pressed="false"><i class="fas fa-brain" aria-hidden="true"></i> Bayesian learning</button>
+        <button type="button" data-filter="deep-learning" aria-pressed="false"><i class="fas fa-network-wired" aria-hidden="true"></i> Deep learning</button>
         <button type="button" data-filter="computing" aria-pressed="false"><i class="fas fa-atom" aria-hidden="true"></i> Quantum statistical computing</button>
         <button type="button" data-filter="biology" aria-pressed="false"><i class="fas fa-dna" aria-hidden="true"></i> Computational biology</button>
       </div>
@@ -73,7 +74,7 @@ redirect_from:
       </div>
     </article>
 
-    <article class="academic-paper" id="paper-wahkon" data-topic="bayesian">
+    <article class="academic-paper" id="paper-wahkon" data-topic="bayesian deep-learning">
       <a class="academic-paper-media" href="{{ '/images/research/wahkon.svg' | relative_url }}" aria-label="Enlarge the figure for wahkon">
         <img src="{{ '/images/research/wahkon.svg' | relative_url }}" width="210" height="144" loading="lazy" alt="Wahkon: A Statistically Principled Deep RKHS Superposition Network overview">
       </a>
@@ -86,7 +87,7 @@ redirect_from:
       </div>
     </article>
 
-    <article class="academic-paper" id="paper-bkd" data-topic="bayesian">
+    <article class="academic-paper" id="paper-bkd" data-topic="bayesian deep-learning">
       <a class="academic-paper-media" href="{{ '/images/research/bayesian-kd.svg' | relative_url }}" aria-label="Enlarge the figure for bkd">
         <img src="{{ '/images/research/bayesian-kd.svg' | relative_url }}" width="210" height="144" loading="lazy" alt="Bayesian Knowledge Distillation: A Bayesian Perspective of Distillation with Uncertainty Quantification overview">
       </a>
