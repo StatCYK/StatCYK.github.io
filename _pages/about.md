@@ -79,11 +79,11 @@ redirect_from:
         <img src="{{ '/images/research/wahkon.svg' | relative_url }}" width="210" height="144" loading="lazy" alt="Wahkon: A Statistically Principled Deep RKHS Superposition Network overview">
       </a>
       <div>
-        <h3><a href="https://arxiv.org/abs/2605.14041">Wahkon: A Statistically Principled Deep RKHS Superposition Network</a></h3>
+        <h3><a href="https://openreview.net/forum?id=pbHIU8XWtM">Wahkon: A Statistically Principled Deep RKHS Superposition Network</a></h3>
         <p class="academic-paper-authors"><strong>Yongkai Chen</strong>, Wenxuan Zhong, Ping Ma</p>
         <p class="academic-paper-venue"><em>STAI-X, 2026 · Best Paper Award</em></p>
         <p class="academic-paper-summary">Smooth link functions, RKHS regularization, and hierarchical Gaussian-process priors for deep learning.</p>
-        <p class="academic-paper-links"><a href="https://arxiv.org/abs/2605.14041">[paper]</a><a href="https://github.com/StatCYK/Wahkon">[code]</a></p>
+        <p class="academic-paper-links"><a href="https://openreview.net/forum?id=pbHIU8XWtM">[paper]</a><a href="https://github.com/StatCYK/Wahkon">[code]</a></p>
       </div>
     </article>
 
@@ -225,7 +225,7 @@ redirect_from:
     <h2 id="news-title">News</h2>
     <ul class="academic-news">
       <li><time datetime="2026">2026</time><span><a href="https://arxiv.org/abs/2512.10066">Classifying Metamorphic versus Single-Fold Proteins</a> accepted by the <em>Annals of Applied Statistics</em>.</span></li>
-      <li><time datetime="2026">2026</time><span><a href="https://arxiv.org/abs/2605.14041">Wahkon</a> received a <a href="https://statsupai.org/STAIX2026/awards.html">Best Paper Award at STAI-X</a>.</span></li>
+      <li><time datetime="2026">2026</time><span><a href="https://openreview.net/forum?id=pbHIU8XWtM">Wahkon</a> received a <a href="https://statsupai.org/STAIX2026/awards.html">Best Paper Award at STAI-X</a>.</span></li>
       <li><time datetime="2024">2024</time><span><a href="https://doi.org/10.1080/01621459.2024.2404259">Bisection Grover’s Search</a> published in JASA. <a href="https://franklin.uga.edu/news/stories/2024/uga-researchers-unveil-development-novel-quantum-computing-algorithm">UGA news coverage</a>.</span></li>
       <li><time datetime="2024">2024</time><span>I completed my Ph.D. in Statistics at the University of Georgia and received the Best Senior Ph.D. Student award.</span></li>
       <li><time datetime="2023">2023</time><span>I received a Summer Research Grant from the University of Georgia.</span></li>
